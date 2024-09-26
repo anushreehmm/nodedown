@@ -42,7 +42,7 @@ def data2_clean(file2_path):
     return df
 
 # File Paths
-file1_path = 'data.xlsx'
+file1_path = 'data (2).xlsx'
 file2_path = 'data2.xlsx'
 
 # Cleaned DataFrames
